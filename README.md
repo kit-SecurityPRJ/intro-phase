@@ -3,3 +3,4 @@
 
 ## 資料
 1. [コンピュータとは](./md/is_computer.md)
+1. [ビットについて](./md/is_computer.md)
