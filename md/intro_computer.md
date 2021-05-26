@@ -1,6 +1,6 @@
 # コンピュータとは
 
-[スライド資料](../pdf/is_computer.pdf)
+[スライド資料](../pdf/intro_computer.pdf)
 
 ## 概要
 コンピュータとは何かを説明した.
