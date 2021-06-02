@@ -5,3 +5,4 @@
 1. [コンピュータとは](./md/intro_computer.md)
 1. [ビットについて](./md/intro_bits.md)
 1. [ネットワークについて](./md/intro_network.md)
+1. [Webについて](./md/intro_web.md)
