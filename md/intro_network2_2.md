@@ -1,18 +1,14 @@
 # ネットワークハンズオン
 
 [スライド資料](../pdf/intro_network2_2.pdf)
-<br> 
-<br> 
+
 
 ## 概要
 - プロトコルの説明（HTTP, TCP, UDP, IP, Ethernet）
 - Wireshark
-- ソケットプログラミング
-<br> 
-<br> 
+- ソケットプログラミング 
 
 ## ハンズオン内容
----
 ## プロトコルの説明
 HTTP，TCP，UDP，IP，Ethernetについて簡単に説明した．TCP/IPの階層モデルの各階層に対応する，プロトコルに触れ，パケットの中身をイメージをつかむ
 #### 参考サイト
@@ -22,15 +18,11 @@ HTTP，TCP，UDP，IP，Ethernetについて簡単に説明した．TCP/IPの階
 - UDPのお話（https://www.infraexpert.com/study/tcpip12.html）
 - IPのお話（https://www.infraexpert.com/study/tcpip1.html）
 - Ethernetのお話（https://www.infraexpert.com/study/ethernet.html）
-<br>
-<br>
 
 ## Wireshark
 パケット解析などに利用されるWiresharkについて触れた．使い方になれるため，CTF問題のネットワーク問題に取り組んだ．<br>
 - Wireshark（https://www.wireshark.org/download.html）<br>
 - 演習で利用した問題（https://www.slideshare.net/ctf4b/ctf-for-60147258）
-<br>
-<br>
 
 ## ソケットプログラミング
 ソケットプログラミングでは，プログラミングでネットワークの通信を行う方法を学ぶ．
