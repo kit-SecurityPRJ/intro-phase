@@ -9,6 +9,7 @@
 1. [Linux Command 入門](./md/intro_linux_command.md)
 1. [Linux Command 入門 2](./md/intro_linux_command_2.md)
 1. [暗号について](./md/intro_crypto.md)
+1. [Gitについて](./md/intro_git.md)
 
 
 ## ハンズオン資料（後学期）
