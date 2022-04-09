@@ -17,3 +17,5 @@
 1. [ネットワークハンズオン２](./md/intro_network2_2.md)
 1. [Webハンズオン１](./md/intro_web2_1.md)
 1. [Webハンズオン２](./md/intro_web2_2.md)
+1. [バイナリハンズオン1](./md/intro_binary1.md)
+1. [バイナリハンズオン2](./md/intro_binary2.md)
